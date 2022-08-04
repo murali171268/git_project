@@ -1,2 +1,2 @@
 # git_project
-learning git
+learning git...hai
